@@ -6,21 +6,22 @@ A Python CLI tool that reads a CSV or JSON file of computer asset records and pr
 
 ---
 
-## Label Template — Avery 61523
+## Label Template — Avery 61528
 
 | Property | Value |
 |---|---|
-| Part number | 61523 |
+| Part number | 61528 |
 | Material | PermaTrack Metallic Silver |
-| Label size | 3/4" (H) × 1-1/2" (W) |
-| Labels per sheet | 40 (4 columns × 10 rows) |
+| Label size | 1-1/4" (H) × 2-3/4" (W) |
+| Labels per sheet | 14 (2 columns × 7 rows) |
 | Sheet size | 8.5" × 11" |
 | Top margin | ~0.50" |
-| Left margin | ~0.19" |
-| Horizontal gap between labels | ~0.31" |
+| Left margin | ~1.25" |
+| Horizontal gap between labels | ~0.50" |
 | Vertical gap between labels | 0" |
 
-Avery template reference: `61523`
+Avery template reference: `61528`  
+**Note**: Verify margins with a plain-paper test print before using metallic stock.
 
 ---
 

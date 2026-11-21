@@ -58,7 +58,7 @@ The user runs all commands. Agents write code and files only. When a command is 
 ## What Agents Should Know
 
 - **Spec lives at** `docs/spec.md` — read it before starting any implementation work
-- **Template target**: Avery 61523 (3/4" × 1-1/2", 40 labels/sheet, 4 col × 10 row)
+- **Template target**: Avery 61528 (1-1/4" × 2-3/4", 14 labels/sheet, 2 col × 7 row)
 - **Barcode type**: Code 39 (the `*serial*` asterisk format seen on the sample label photo)
 - **Output format**: `.docx` via `python-docx`, not PDF (Phase 1)
 - **Input**: CSV first, JSON second; both handled by `reader.py`
